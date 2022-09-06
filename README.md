@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Cami Bryans!
 - ❤️ I'm passionate about Coding.
+- 💻 I completed a UX/UI Design Course in CoderHouse School.
 - 📖 I got certified as Front End Web Developer by Montgomery College.
 - 🌱 I’m currently learning React with LinkedIn Learning.
 - 💼 I'm looking for a job to apply my knowledge and keep improving my skills.

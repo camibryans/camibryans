@@ -2,7 +2,7 @@
 - ❤️ I'm passionate about Coding.
 - 💻 I completed a UX/UI Design Course in CoderHouse School.
 - 📖 I got certified as Front End Web Developer by Montgomery College.
-- 🌱 I’m currently learning React with LinkedIn Learning.
+- 🌱 I’m currently improving my skills with LinkedIn Learning.
 - 💼 I'm looking for a job to apply my knowledge and keep improving my skills.
 - 💞️ I’m looking to collaborate on different projects, especially start ups.
 - 📫 You can reach me at my email camila.bryans@gmail.com

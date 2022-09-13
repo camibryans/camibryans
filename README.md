@@ -4,7 +4,7 @@
 - 📖 I got certified as Front End Web Developer by Montgomery College.
 - 🌱 I’m currently improving my skills with LinkedIn Learning.
 - 💼 I'm looking for a job to apply my knowledge and keep improving my skills.
-- 💞️ I’m looking to collaborate on different projects, especially start ups.
+- 💞️ I’m looking to collaborate on different projects.
 - 📫 You can reach me at my email camila.bryans@gmail.com
 
 <!---

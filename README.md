@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Cami Bryans!
 - ❤️ I'm passionate about Coding.
-- 💼 I'm currently working in VulbMedia Agency, in Sydney, Australia.
+- 💼 Had a work experience in VulbMedia Agency, in Sydney, Australia as part of the web development team.
 - 🌱 I completed a React.Js Course in CoderHouse School.
 - 💻 I completed a UX/UI Design Course in CoderHouse School.
 - 📖 I got certified as Front End Web Developer by Montgomery College, Maryland, USA.
